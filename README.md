@@ -22,4 +22,4 @@ https://lists.mozilla.org/listinfo/tools-socorro
 Socorro/Breakpad IRC channel:
 irc://irc.mozilla.org/breakpad
 
-Test13sdf3532sdfsdfsadfasdfadsdfsfasdfasdfsafdsdf
+Test13ssdfsddf3532sdfsdfsadfasdfadsdfsfasdfasdfsafdsdf
